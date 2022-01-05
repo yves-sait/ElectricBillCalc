@@ -11,6 +11,10 @@ using System.Windows.Forms;
 
 namespace ElectricBillCalcGui
 {
+    /// <summary>
+    /// Add Customer Form Class
+    /// Form that accepts and creates new customers
+    /// </summary>
     public partial class frmAddCustomer : Form
     {
         // public variable of type customer

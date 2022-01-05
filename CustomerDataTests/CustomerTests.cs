@@ -8,6 +8,11 @@ using System.Threading.Tasks;
 
 namespace CustomerData.Tests
 {
+
+    /// <summary>
+    /// Application Unit test class
+    /// Performs unit test on the main(customer bill) calculation method
+    /// </summary>
     [TestClass()]
     public class CustomerTests
     {

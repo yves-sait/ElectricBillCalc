@@ -68,7 +68,7 @@ namespace ElectricBillCalcGui
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(470, 488);
+            this.label2.Location = new System.Drawing.Point(470, 475);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(241, 27);
             this.label2.TabIndex = 3;
@@ -101,7 +101,7 @@ namespace ElectricBillCalcGui
             this.lblAvgBillAmt.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblAvgBillAmt.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lblAvgBillAmt.ForeColor = System.Drawing.Color.Black;
-            this.lblAvgBillAmt.Location = new System.Drawing.Point(462, 536);
+            this.lblAvgBillAmt.Location = new System.Drawing.Point(462, 523);
             this.lblAvgBillAmt.Name = "lblAvgBillAmt";
             this.lblAvgBillAmt.Size = new System.Drawing.Size(249, 39);
             this.lblAvgBillAmt.TabIndex = 6;

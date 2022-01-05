@@ -1,4 +1,14 @@
-﻿using CustomerData;
+﻿/*
+ * 
+ * CPRG 200 Lab Assignment 2
+ * Author: 
+ * Date: December 2021
+ * Title: Elctric Bill Calculator
+ * 
+ */
+
+
+using CustomerData;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,6 +21,10 @@ using System.Windows.Forms;
 
 namespace ElectricBillCalcGui
 {
+    /// <summary>
+    /// Main Electric Bill Calculator Form Class
+    /// From Displays Customer Data and application statistics
+    /// </summary>
     public partial class frmElectricBillCalc : Form
     {
         //emtpy list creation
